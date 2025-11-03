@@ -1,5 +1,5 @@
 # easy-tmux
-##tmux made easy
+## tmux made easy
 
 ### Persistent Terminal Manager (Bash + tmux)
 
